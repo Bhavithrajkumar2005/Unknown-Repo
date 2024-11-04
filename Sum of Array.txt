@@ -1,0 +1,4 @@
+n=int(input())
+array=list(map(int,input().split()))
+sum_elements=sum(array)
+print(sum_elements)
